@@ -1,4 +1,4 @@
-## Loop training ##
+## THP Loop training ##
 
 4 programs to learn how to do loops in Ruby language.
 
